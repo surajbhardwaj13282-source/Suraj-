@@ -1,0 +1,6 @@
+{
+  "name": "Pixora",
+  "description": "Modern Instagram-inspired social media platform with photos, reels, 24-hour stories, private & group messaging, and creator tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
